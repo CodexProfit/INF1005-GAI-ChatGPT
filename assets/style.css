@@ -1,0 +1,15 @@
+.card-step {
+    max-width: 760px;
+    margin: 0 auto;
+}
+.profile-photo,
+.pet-photo {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid #e9ecef;
+}
+.pet-photo {
+    border-radius: 8px;
+}

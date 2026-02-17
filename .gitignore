@@ -1,0 +1,5 @@
+data/users.csv
+uploads/profile/*
+uploads/pets/*
+!uploads/profile/.gitkeep
+!uploads/pets/.gitkeep
